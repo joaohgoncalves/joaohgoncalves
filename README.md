@@ -3,7 +3,7 @@
 ![Banner](BannerparaLinkedinTecnologiaemPreto.png)  
 
 ## 👨‍💻 Sobre mim  
-🎓 Formado em **Desenvolvimento de Sistemas**  
+🎓 Cursando **Desenvolvimento de Sistemas**  
 💡 Apaixonado por tecnologia, inovação e desenvolvimento de software  
 📱 Focado em desenvolvimento **Web** e **Mobile**  
 🚀 Sempre explorando novas tecnologias e desafios  
