@@ -54,4 +54,3 @@
 
 🚀 **Obrigado por visitar meu perfil!** 😃  
 
-melhore o maximo do maximo de preferencia faça na horizontal
