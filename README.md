@@ -37,10 +37,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 🌐 Desenvolvimento Web  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-0073E6?style=for-the-badge&logo=elementor&logoColor=white)
+
 ---
 
 ## 📊 Estatísticas do GitHub  
-
 
 <div align="center">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaohgoncalves&show_icons=true&theme=radical" />
@@ -51,6 +54,5 @@
 
 ## 📬 Contato  
 📧 **Email:** [joaohenriquegon2009@gmail.com](mailto:joaohenriquegon2009@gmail.com)  
-
 
 🚀 **Obrigado por visitar meu perfil!** 😃  
