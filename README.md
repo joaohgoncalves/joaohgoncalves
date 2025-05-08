@@ -1,7 +1,5 @@
 # 💻 Bem-vindo ao meu GitHub! 🚀  
 
-![Banner](BannerparaLinkedinTecnologiaemPreto.png)  
-
 ## 👨‍💻 Sobre mim  
 🎓 Cursando **Desenvolvimento de Sistemas**  
 📱 Focado em desenvolvimento **Web** e **Mobile**  
