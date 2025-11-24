@@ -1,58 +1,64 @@
-# 💻 Bem-vindo ao meu GitHub! 🚀  
+# João Henrique Gonçalves
 
-## 👨‍💻 Sobre mim  
-🎓 Cursando **Desenvolvimento de Sistemas**  
-📱 Focado em desenvolvimento **Web** e **Mobile**  
-🚀 Sempre explorando novas tecnologias e desafios  
-
----
-
-## 🚀 Tecnologias & Habilidades  
-
-### 🌍 Linguagens de Programação  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 📱 Desenvolvimento Mobile  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### 🌐 Desenvolvimento Web  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-0073E6?style=for-the-badge&logo=elementor&logoColor=white)
-
-
-### 🛠️ Outras Tecnologias  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+Software Development student with focus on building reliable, scalable and maintainable applications.  
+Experience across Web, Mobile and Desktop development, applying clean architecture principles, modular design and modern development practices.  
+Interested in performance-oriented code, strong UI/UX fundamentals and end-to-end product delivery.
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## Core Technologies
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+
+### Web Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-0073E6?style=flat&logo=elementor&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Desktop & UI Frameworks
+![Flet](https://img.shields.io/badge/Flet-000000?style=flat&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3D3D3D?style=flat)
+
+### Backend, Databases & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Version Control & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
+
+---
+
+## GitHub Insights
 
 <div align="center">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaohgoncalves&show_icons=true&theme=radical" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgoncalves&layout=compact&theme=radical" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaohgoncalves&show_icons=true&theme=default" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgoncalves&layout=compact&theme=default" />
 </div>
-
 
 ---
 
-## 📬 Contato  
-📧 **Email:** [joaohenriquegon2009@gmail.com](mailto:joaohenriquegon2009@gmail.com)  
+## Contact
 
-🚀 **Obrigado por visitar meu perfil!** 😃  
+Email: [joaohenriquegon2009@gmail.com](mailto:joaohenriquegon2009@gmail.com)
+
+---
