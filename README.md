@@ -51,8 +51,8 @@ Interested in performance-oriented code, strong UI/UX fundamentals and end-to-en
 ## GitHub Insights
 
 <div align="center">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaohgoncalves&show_icons=true&theme=dark" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohgoncalves&layout=compact&theme=dark" />
+  <img height="240em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=joaohgoncalves&&theme=github_dark_dimmed" alt="Khaled's GitHub Stats" />
+  <img height="240em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=joaohgoncalves&&theme=github_dark_dimmed"  alt="Khaled GitHub Top Languages" />
 </div>
 
 ---
