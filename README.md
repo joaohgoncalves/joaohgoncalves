@@ -1,8 +1,22 @@
-# João Henrique Gonçalves
+<h1 align="center">João Henrique Gonçalves</h1>
 
-Software Development student focused on building reliable, scalable and maintainable applications.  
-Experience across Web, Mobile, Desktop and E-commerce development, applying clean architecture principles, modular design and modern development practices.  
-Interested in performance-oriented code, strong UI/UX fundamentals, scalable systems and end-to-end product delivery.
+<p align="center">
+  Software Development student · Full-stack & E-commerce developer<br>
+  Building reliable, scalable and maintainable applications — Web, Mobile, Desktop.
+</p>
+
+<p align="center">
+  <a href="mailto:joaohenriquegon2009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/joaohgoncalves">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <!-- TODO: troque pelo seu perfil real -->
+  <a href="https://linkedin.com/in/joão-gonçalves-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
@@ -84,15 +98,6 @@ Interested in performance-oriented code, strong UI/UX fundamentals, scalable sys
 - Performance optimization
 - UI/UX design and front-end engineering
 - Database design and backend APIs
-
----
-
-## GitHub Insights
-
-<div align="center">
-  <img height="240em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=joaohgoncalves&&theme=github_dark_dimmed" alt="João Henrique's GitHub Stats" />
-  <img height="240em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=joaohgoncalves&&theme=github_dark_dimmed" alt="João Henrique's GitHub Top Languages" />
-</div>
 
 ---
 
