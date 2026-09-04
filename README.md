@@ -107,14 +107,7 @@
 
 ---
 
-## GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=joaohgoncalves&starting_year=2016&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"
-    alt="GitHub Streak"
-  >
-</p>
 
 ---
 
