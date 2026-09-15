@@ -1,7 +1,7 @@
 <h1 align="center">João Henrique Gonçalves</h1>
 
 <p align="center">
-  <strong>Software Development Student · Full-stack & E-commerce Developer</strong><br>
+  <strong>Software Development · Full-stack & E-commerce Developer</strong><br>
   Building reliable, scalable and maintainable applications — Web, Mobile & Desktop.
 </p>
 
