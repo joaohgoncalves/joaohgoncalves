@@ -111,8 +111,8 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=joaohgoncalves&starting_year=2016&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&v=1"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=joaohgoncalves&starting_year=2016&timezone=America%2FSao_Paulo&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"
+    alt="GitHub Streak Stats"
   >
 </p>
 
